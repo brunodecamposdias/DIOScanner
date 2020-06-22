@@ -1,5 +1,9 @@
+#DIOScanner é um projeto dedicado ao treinamento por Bruno Dias
+# Seu uso e edição é permitido desde que citado o autor
+#brunocdias@live.com
+
 import nmap
-#uo
+
 scanner = nmap.PortScanner()
 
 print(" Seja bem vindo ao DIOScanner")
